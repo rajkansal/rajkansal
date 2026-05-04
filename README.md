@@ -44,4 +44,4 @@ DevOps & Observability Engineer with 2+ years of experience in **CI/CD automatio
 ## 🔹 Contact  
 📧 rajkansal@example.com  
 🌐 [GitHub Portfolio](https://github.com/rajkansal)  
-💼 [LinkedIn Profile](https://linkedin.com/in/rajkansal)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/raj-kansal-828b82274)  
